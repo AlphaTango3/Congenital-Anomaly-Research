@@ -4,7 +4,7 @@ Id,maternal_age,consanguinity,consanguinity_degree,registered_antenatally,anc_im
 3,23,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Female,Term,No,2.25,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 4,26,Yes,3rd,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,NVD,Female,Term,No,2.70,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 5,29,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,NVD,Female,Term,No,2.90,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
-6,25,No,NA,Yes,Yes,No,NA,No,No,P2L1D1A2,2,1,1,2,2,0,No,LSCS,Male,Term,No,3.12,"1,2,3",Yes,Bradycardia,Yes,No,AGA,No,No,No,No,No,No,No,No,No,HIE,Isolated HIE,No
+6,25,No,NA,Yes,Yes,No,NA,No,No,P2L1D1A2,2,1,1,2,2,0,No,LSCS,Male,Term,No,3.12,"1,2,3",Yes,Bradycardia,Yes,No,AGA,No,No,No,No,No,No,No,No,No,HIE,Acquired HIE,No
 7,25,No,NA,Yes,Yes,No,NA,No,No,P2L2A1,2,2,0,1,1,0,No,LSCS,Female,Term,No,2.75,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 8,25,No,NA,Yes,Yes,No,NA,PIH,No,P1L1,1,1,0,0,0,0,No,LSCS,Male,Term,No,3.25,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 9,24,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,LSCS,Male,Term,No,2.30,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
@@ -287,7 +287,7 @@ Id,maternal_age,consanguinity,consanguinity_degree,registered_antenatally,anc_im
 286,28,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,NVD,Male,Term,No,2.50,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 287,30,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Female,Term,No,2.50,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 288,25,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,LSCS,Male,Term,No,3.30,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
-289,20,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Female,Preterm,No,1.04,"0,1,2",Yes,Bradycardia,Yes,No,AGA,No,No,No,No,No,No,Yes,No,No,HIE,,Yes
+289,20,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Female,Preterm,No,1.04,"0,1,2",Yes,Bradycardia,Yes,No,AGA,No,No,No,No,No,No,Yes,No,No,HIE,Acquired HIE,No
 290,27,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,LSCS,Male,Term,No,2.50,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 291,24,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,LSCS,Female,Preterm,No,1.63,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 292,20,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,LSCS,Male,Term,No,3.00,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
@@ -460,7 +460,7 @@ Id,maternal_age,consanguinity,consanguinity_degree,registered_antenatally,anc_im
 459,25,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Male,Term,No,2.70,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 460,22,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,NVD,Female,Term,No,2.80,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 461,27,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,LSCS,Male,Term,No,2.55,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
-462,29,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Male,Post-Term,No,3.40,"8,9,9",Yes,Normal,No,No,AGA,No,No,Yes,No,No,No,No,No,No,"Cleft lip, Cleft palate",,Yes
+462,29,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,NVD,Male,Post-term,No,3.40,"8,9,9",Yes,Normal,No,No,AGA,No,No,Yes,No,No,No,No,No,No,"Cleft lip, Cleft palate",,Yes
 463,20,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,LSCS,Male,Term,No,2.25,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 464,23,No,NA,Yes,Yes,No,NA,No,No,P2L2,2,2,0,0,0,0,No,NVD,Male,Term,No,2.80,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
 465,22,No,NA,Yes,Yes,No,NA,No,No,P1L1,1,1,0,0,0,0,No,LSCS,Female,Term,No,3.10,"8,9,9",No,Normal,No,No,AGA,No,No,No,No,No,No,No,No,No,,,No
